@@ -1,0 +1,4 @@
+Part :- 27 When we access the direct profile page then error is showing. Check the 
+video 27 time 22 minutes.
+	
+http://localhost:8000/account/profile
